@@ -17,3 +17,13 @@ I'm a full stack developer from Sweden.
 ![GitHub Snake dark](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake-dark.svg#gh-dark-mode-only)
 </div>
 
+<div align="center">
+<a href="https://github.com/adaptive-simon/adaptive-simon#gh-dark-mode-only">
+<img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/adaptive-simon/adaptive-simon#gh-light-mode-only">
+<img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+</a>
+</div>
