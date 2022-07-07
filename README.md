@@ -6,7 +6,8 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&font=Righteous&size=35&height=50&width=500&color=FFFFFF&lines=About+me;Om+mig)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&font=Righteous&size=35&height=50&width=500&color=111111&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=3000&font=Righteous&size=35&height=50&width=500&color=FFFFFF&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://git.io/typing-svg#gh-dark-mode-only)
 
 I'm a full stack developer from Sweden.
 
