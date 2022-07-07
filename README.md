@@ -1,9 +1,9 @@
 <div align="center">
 
-# Greetings
-And welcome to my profile
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=65&height=90&width=600&center=true&color=111111&lines=Simon+Hyll)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=65&height=90&width=600&center=true&color=FFFFFF&lines=Simon+Hyll)](https://git.io/typing-svg#gh-dark-mode-only)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake-dark.svg#gh-dark-mode-only)
+</div>
 
