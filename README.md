@@ -7,5 +7,3 @@ And welcome to my profile
 ![GitHub Snake Light](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake-dark.svg#gh-dark-mode-only)
 
-## Projects
-
