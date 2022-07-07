@@ -6,5 +6,3 @@ And welcome to my profile
 
 ## Projects
 
-## Lets play a game!
-
