@@ -9,9 +9,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://git.io/typing-svg#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://git.io/typing-svg#gh-dark-mode-only)
 
-I'm a full stack developer from Sweden.
+📃**Description:** Full stack developer from Sweden
+
+💻**Job:** Chief Technical Officer at Adaptive Hedge Fund Management AB
+
+🕹**Hobbies:** Contributing to open source projects and helping others
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://git.io/typing-svg#gh-dark-mode-only)
+
+<span>
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png">
+<img width="40" src="http://rust-lang.org/logos/rust-logo-512x512.png">
+<img width="40" src="https://images.vexels.com/media/users/3/166403/isolated/preview/a5a33bf3004830a2bd581e9fa65de660-javascript-programming-language-icon.png">
+<img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+</span>
 
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Statistics)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Statistics)](https://git.io/typing-svg#gh-dark-mode-only)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake-dark.svg#gh-dark-mode-only)
