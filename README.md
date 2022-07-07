@@ -4,7 +4,7 @@
 And welcome to my profile
 </div>
 
-## 🛠 Projects
+## Projects
 
-## 🎮 Lets play a game!
+## Lets play a game!
 
