@@ -27,8 +27,8 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Statistics)](https://git.io/typing-svg#gh-light-mode-only)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Statistics)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Statistics;Statistik;Statistiken;Estadística)](https://git.io/typing-svg#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Statistics;Statistik;Statistiken;Estadística)](https://git.io/typing-svg#gh-dark-mode-only)
 
 ![GitHub Snake Light](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](https://raw.githubusercontent.com/adaptive-simon/adaptive-simon/output/github-snake-dark.svg#gh-dark-mode-only)
