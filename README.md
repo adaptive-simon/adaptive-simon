@@ -25,6 +25,7 @@
 </div>
 
 <p>
+  <img alt="Git" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img alt="GCP" width="40" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
   <img alt="Docker" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
   <img alt="Kubernetes" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
@@ -33,6 +34,7 @@
   <img alt="Visual Studio Code" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
   <img alt="IntelliJ" width="40" src="https://assets-global.website-files.com/5e9fbf5674850713e126ee08/5eb310b704b0b6b523020e10_intellij.png">
   <img alt="Tauri" width="40" src="https://img.gs/czjpqfbdkz/full/https://github.com/tauri-apps/tauri/raw/dev/app-icon.png">
+  <img alt="Kali" width="40" src="https://play-lh.googleusercontent.com/Oriscl3_nvmDPncct6gStmNuQW_4tqHVozy1skG0vd8Jk22KYNMYYJfKq0vcyU-NKdw">
 </p>
 
 <p>
@@ -44,6 +46,9 @@
   <img alt="Vue" width="40" src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png">
   <img alt="HTML5" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
   <img alt="CSS" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+  <img alt="MySQL" width="40" src="https://uploads-ssl.webflow.com/60eecfcc030e0e12979ffefc/613a2ecb140ba5ce5e343228_Frame%20197%406x.png">
+  <img alt="MongoDB" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+  <img alt="Sass" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
 </p>
 
 <div align="center">
