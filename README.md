@@ -33,7 +33,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
-<p>
+<p align="center">
   <img alt="Git" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img alt="GCP" width="40" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
   <img alt="Docker" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
@@ -46,7 +46,7 @@
   <img alt="Kali" width="40" src="https://play-lh.googleusercontent.com/Oriscl3_nvmDPncct6gStmNuQW_4tqHVozy1skG0vd8Jk22KYNMYYJfKq0vcyU-NKdw">
 </p>
 
-<p>
+<p align="center">
   <img alt="Rust" width="40" src="http://rust-lang.org/logos/rust-logo-512x512.png">
   <img alt="Python" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/768px-Python.svg.png">
   <img alt="C++" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
