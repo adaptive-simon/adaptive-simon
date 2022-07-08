@@ -78,4 +78,6 @@
 <img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/adaptive-simon/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=12&height=20&width=400&color=FFFFFF&lines=Cool+people+use+dark+mode;You+are+cool+😀)](https://github.com/adaptive-simon#gh-dark-mode-only)
 </div>
