@@ -59,6 +59,7 @@
   <img alt="MySQL" width="40" src="https://uploads-ssl.webflow.com/60eecfcc030e0e12979ffefc/613a2ecb140ba5ce5e343228_Frame%20197%406x.png">
   <img alt="MongoDB" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
   <img alt="Sass" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
+  <img alt="CMake" width="40" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=400&color=111111&lines=Statistics;Statistik;Statistiken;Estadística)](https://github.com/adaptive-simon#gh-light-mode-only)
