@@ -15,6 +15,8 @@
 
 🕹**Hobbies:** Contributing to open source projects and helping others
 
+⚡**Fun fact:** Has not read all the books he owns
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
@@ -25,6 +27,7 @@
 <p>
   <img alt="GCP" width="40" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
   <img alt="Docker" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+  <img alt="Kubernetes" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png">
   <a href="https://github.com/adaptive-simon#gh-light-mode-only"><img alt="Github" width="40" src="https://cdn-icons-png.flaticon.com/512/25/25231.png?w=360"></a>
   <a href="https://github.com/adaptive-simon#gh-dark-mode-only"><img alt="Github" width="40" src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png"></a>
   <img alt="Visual Studio Code" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
