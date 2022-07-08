@@ -3,10 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=65&height=95&width=500&center=true&color=111111&lines=Greetings!;Välkommen!;Guten+tag!;¡Hola!)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=65&height=95&width=500&center=true&color=FFFFFF&lines=Greetings!;Välkommen!;Guten+tag!;¡Hola!)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://github.com/adaptive-simon#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://github.com/adaptive-simon#gh-dark-mode-only)
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://github.com/adaptive-simon#gh-light-mode-only)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=About+me;Om+mig;Über+mich;Sobre+mí)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
 <table align="right">
   <tr>
@@ -30,8 +29,10 @@
 
 ⚡**Fun fact:** Has not read all the books he owns
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
 <p align="center">
   <img alt="Git" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
@@ -59,8 +60,6 @@
   <img alt="MongoDB" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
   <img alt="Sass" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png">
 </p>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=400&color=111111&lines=Statistics;Statistik;Statistiken;Estadística)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=400&color=FFFFFF&lines=Statistics;Statistik;Statistiken;Estadística)](https://github.com/adaptive-simon#gh-dark-mode-only)
