@@ -20,9 +20,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
-<table align="right">
-  <tr><td><a href="https://app.pluralsight.com/profile/simon-hyll"><img align="right" src="https://img.shields.io/badge/pluralsight-profile-red?style=for-the-badge"></a></td></tr>
-</table>
+<div align="right">
+  <a href="https://app.pluralsight.com/profile/simon-hyll"><img align="right" src="https://img.shields.io/badge/pluralsight-profile-red?style=for-the-badge"></a>
+</div>
 
 <p>
   <img alt="GCP" width="40" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
