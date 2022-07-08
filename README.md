@@ -19,6 +19,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=111111&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?vCenter=true&duration=3000&font=Righteous&size=35&height=60&width=500&color=FFFFFF&lines=Tools+and+languages;Verktyg+och+språk;Werkzeuge+und+Sprachen;Instrumentos+y+linguas)](https://github.com/adaptive-simon#gh-dark-mode-only)
 
+<table align="right">
+  <tr>
+    <td align="right">
+<a href="https://app.pluralsight.com/profile/simon-hyll"><img src="https://img.shields.io/badge/pluralsight-profile-red?style=for-the-badge"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">
+<a href="https://www.linkedin.com/in/simon-hyll/"><img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge"></a>
+    </td>
+  </tr>
+</table>
+
 <p>
   <img alt="Git" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
   <img alt="GCP" width="40" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-400w.png">
