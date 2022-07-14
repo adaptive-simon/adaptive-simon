@@ -27,7 +27,7 @@
 
 🕹**Hobbies:** Contributing to open source projects and helping others
 
-⚡**Fun fact:** Has not read all the books he owns
+⚡**Fun fact:** Loves books but seldom reads them
 
 <div align="center">
 
